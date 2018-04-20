@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width:800px;
+  height: 800px;
+  background: linear-gradient(#00f260, #0575e6);
+  position: relative;
+  margin: 0 auto;
+}
+.App-logo {
+  height: 400px;
+  position: relative;
+  top: 100px;
+}
+
+.StartButton{
+  position: relative;
+  top: 200px;
+}

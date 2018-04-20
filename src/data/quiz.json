@@ -1,0 +1,94 @@
+{
+  "title": "Quiz App",
+  "questions": [
+    {
+      "question": "As of Patch 7.3 in League of Legends, there are total 134 champions.",
+      "category": "League Of Legends",
+      "answers": [
+        {"point": 1, "label": "True"},
+        {"point": 0,"label": "False"}
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "League of Legends was released on October 27, 2009.",
+      "category": "League Of Legends",
+      "answers": [
+        {"point": 1,"label": "True"},
+        {"point": 0,"label": "False"}
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "The main developers of Fortnite are Ubioft and SnowedIn Studios.",
+      "category": "Fortnite",
+      "answers": [
+        {"point": 0,"label": "True"},
+        {"point": 1,"label": "False"}
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Drake played Fortnite live on Twitch with: Travis Scott, JuJu Smith-Schuster and Ninja(rising video-game streaming star).",
+      "category": "Fortnite",
+      "answers": [
+        {"point": 1,"label": "True"},
+        {"point": 0,"label": "False"}
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Bastion Is Voiced By Chris Evans",
+      "category": "Overwatch",
+      "answers": [
+        {"point": 0,"label": "True"},
+        {"point": 1,"label": "False"}
+      ]
+    },
+    {
+      "question": "D.Va's nationality is korean and her real name is Hana Song",
+      "category": "Overwatch",
+      "answers": [
+        {"point": 1,"label": "True"},
+        {"point": 0,"label": "False"}
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "There are 3 main teams to play from: Teros, Protons, and Ziggs",
+      "category": "StarCraft",
+      "answers": [
+        {"point": 0,"label": "True"},
+        {"point": 1,"label": "False"}
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Starcraft was released March 31 1988",
+      "category": "StarCraft",
+      "answers": [
+        {"point": 0,"label": "True"},
+        {"point": 1,"label": "False"}
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "The most health a minion can have is 10,147,483,647.",
+      "category": "Hearthstone",
+      "answers": [
+        {"point": 0,"label": "True"},
+        {"point": 1,"label": "False"}
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Draws are possible if both players die in the same turn",
+      "category": "Heartsthone",
+      "answers": [
+        {"point": 1,"label": "True"},
+        {"point": 0,"label": "False"}
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}
